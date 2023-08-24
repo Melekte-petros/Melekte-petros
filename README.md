@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Melekte-petros
-- 👀 I’m interested in physics
+- 👀 I’m interested in any engineering
 - 🌱 I’m currently learning maths and artificial intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
